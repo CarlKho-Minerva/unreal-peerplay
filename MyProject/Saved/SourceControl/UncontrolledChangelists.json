@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/c.kho/Documents/Unreal Projects/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/c.kho/Documents/Unreal Projects/MyProject/Content/CarlExperiment/bps/Master_Event.uasset",
+				"C:/Users/c.kho/Documents/Unreal Projects/MyProject/Content/CarlExperiment/bps/Master_Interact.uasset",
+				"C:/Users/c.kho/Documents/Unreal Projects/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/c.kho/Documents/Unreal Projects/MyProject/Content/CarlExperiment/bps/Interact_Box.uasset",
+				"C:/Users/c.kho/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"C:/Users/c.kho/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/C1/MODFURWKEG6US1OVQQKG54.uasset",
+				"C:/Users/c.kho/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/IJ/GGJ8Q4ZUW08EF50141CANQ.uasset",
+				"C:/Users/c.kho/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/1U/32HEKU9FBD6Q8AYSOIFWSG.uasset",
+				"C:/Users/c.kho/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/29/YRLRCC872B10EKUIIEWQZI.uasset",
+				"C:/Users/c.kho/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/PP/0M7EH6OE45KJ09G4BZQO62.uasset",
+				"C:/Users/c.kho/Documents/Unreal Projects/MyProject/Content/Megascans/3D_Assets/Wooden_Table_viejdi1/S_Wooden_Table_viejdi1_lod3_Var1.uasset",
+				"C:/Users/c.kho/Documents/Unreal Projects/MyProject/Content/Megascans/3D_Assets/Fireplace_ujjtcjnfa/S_Fireplace_ujjtcjnfa_lod3_Var1.uasset",
+				"C:/Users/c.kho/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/RV/1T6FITRPIRFGVAQ8TT7D4U.uasset"
+			]
+		}
+	]
+}
